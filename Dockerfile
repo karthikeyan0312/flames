@@ -18,4 +18,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 ENV PYTHONUNBUFFERED=1
 
 # Run the bot
-CMD ["python", "test.py"]
+CMD ["python", "flames.py"]
